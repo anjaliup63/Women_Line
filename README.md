@@ -1,4 +1,4 @@
-# Women_Line# || NLP Annotation and Schema Design 
+# Women_Line_Team|| NLP Annotation and Schema Design 
 
 This repository contains the annotated dataset and schema design work completed for the NLP module as part of the project assignment scheduled for **16th–17th July**.
 ##  Task Overview
